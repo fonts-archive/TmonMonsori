@@ -15,7 +15,7 @@ font-family: 'Tmon Monsori';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/TmonMonsori/TmonMonsori.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/TmonMonsori/TmonMonsori.css" type="text/css"/>
 ```
 
 &nbsp;
